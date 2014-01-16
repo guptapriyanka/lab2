@@ -32,3 +32,22 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project{
+     margin-left: 20px;
+     background-color: #5eacd3;
+     padding: 20px;
+     width: 520px;
+}
+
+p{
+     font-variant: small-caps;
+}
+
+.project p {
+     font-variant: : small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+}
